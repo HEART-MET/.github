@@ -1,5 +1,7 @@
 This organization contains the repositories used for the [METRICS HEART-MET competition](https://metricsproject.eu/healthcare/).
 
+The current rulebook can be found [here](https://github.com/HEART-MET/rulebook)
+
 ## Repositories required on your robot
 1. [metrics_refbox_msgs](https://github.com/HEART-MET/metrics_refbox_msgs)
 2. [metrics_refbox_client](https://github.com/HEART-MET/metrics_refbox_client)
